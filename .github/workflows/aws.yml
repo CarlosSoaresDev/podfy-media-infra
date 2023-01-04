@@ -1,7 +1,7 @@
-name: Infra media infra
+name: Infra podfy media infra
 
 env:
-  product_name: media
+  product_name: podfy-media
   service_name: services-infra
 
 on:
